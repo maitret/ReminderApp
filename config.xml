@@ -63,6 +63,8 @@ Define a specific version of PhoneGap to build into your app.
 <gap:plugin name="com.phonegap.plugins.pushplugin" version="2.4.0" />
 <gap:plugin name="nl.x-services.plugins.socialsharing" />
 
+<gap:plugin name="de.appplant.cordova.plugin.local-notification" />
+
 <!--
 <gap:plugin name="plugin.google.maps.menusito" version="1.2.5" >
 <param name="API_KEY_FOR_ANDROID" value="AIzaSyCTQh6x95FlAAjVoPOTI7gF6O_ZLxPWGlI" />
